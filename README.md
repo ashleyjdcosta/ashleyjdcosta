@@ -5,7 +5,7 @@
 📍 Stockholm, Sweden  
 📞 (+46) 072-773 6285  
 📧 [ashley.j.dcosta@gmail.com](mailto:ashley.j.dcosta@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ashley-jeff)
+🔗 [LinkedIn](https://www.linkedin.com/in/ashleyjeffdcosta)
 
 With over 10 years of experience, I specialize in leading, architecting, planning, implementing, and securing full-scale software projects. Currently at Playground Group, I develop secure full-stack applications and enhance cloud security across AWS, Azure, and Microsoft environments.
 
@@ -133,8 +133,7 @@ With over 10 years of experience, I specialize in leading, architecting, plannin
 I'm eager to collaborate on innovative projects, discuss cloud security, or share software engineering insights. Reach out via:
 
 - 📫 Email: [ashley.j.dcosta@gmail.com](mailto:ashley.j.dcosta@gmail.com)
-- 🔗 LinkedIn: [Ashley Jeff](https://www.linkedin.com/in/ashley-jeff)
-- 🐦 Twitter: @your-twitter-handle (if applicable)
+- 🔗 LinkedIn: [Ashley Jeff](https://www.linkedin.com/in/ashleyjeffdcosta)
 
 Thanks for stopping by! ⭐ Star my repos or follow me for more updates! 😄
 
