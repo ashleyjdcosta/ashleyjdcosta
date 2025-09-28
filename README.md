@@ -1,6 +1,5 @@
 # Ashley Jeff D'Costa 👨‍💻
 
-![Ashley Jeff D'Costa]
 
 **Senior Professional Software Engineer | Cloud Security Specialist**  
 📍 Stockholm, Sweden  
