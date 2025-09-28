@@ -1,6 +1,6 @@
 # Ashley Jeff D'Costa 👨‍💻
 
-![Ashley Jeff D'Costa](https://ourkey.tech/assets/asset2.jpg) <!-- Replace with your actual profile picture URL or upload to GitHub -->
+![Ashley Jeff D'Costa]
 
 **Senior Professional Software Engineer | Cloud Security Specialist**  
 📍 Stockholm, Sweden  
@@ -124,8 +124,8 @@ With over 10 years of experience, I specialize in leading, architecting, plannin
 ---
 
 ## 📊 GitHub Stats
-![Ashley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Ashley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashleyjdcosta&theme=radical&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleyjdcosta&layout=compact&theme=radical)  
 <!-- Replace 'your-github-username' with your actual GitHub username -->
 
 ---
