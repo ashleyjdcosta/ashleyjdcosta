@@ -1,7 +1,7 @@
 # Ashley Jeff D'Costa 👨‍💻
 
 
-**Senior Professional Software Engineer | Cloud Security Specialist**  
+** Senior Solutions Architect | Senior Professional Software Engineer | Cloud Security Specialist**  
 📍 Stockholm, Sweden  
 📞 (+46) 072-773 6285  
 📧 [ashley.j.dcosta@gmail.com](mailto:ashley.j.dcosta@gmail.com)  
